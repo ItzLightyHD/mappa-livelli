@@ -1,5 +1,6 @@
 {
     "name": "Esempio di mappa con livelli",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
